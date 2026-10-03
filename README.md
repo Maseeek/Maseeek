@@ -2,14 +2,14 @@
 
 # Maciek Geneja
 
-**Systems Placement Engineer @ Next plc (FTSE 100)** · **BSc (Hons) Computer Science @ Loughborough University (First-Class Honours)**  
+**Systems Placement Developer @ Next plc (FTSE 100)** · **BSc (Hons) Computer Science @ Loughborough University (First-Class Honours)**
 *Distributed Systems · Deterministic Agentic Engineering · Applied AI & Computer Vision · High-Assurance Full-Stack Architecture*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-maciekgeneja.me-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://maciekgeneja.me)
 [![X](https://img.shields.io/badge/X-%40maseeek-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maseeek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maciek_Geneja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciek-geneja-552325332/)
 [![Email](https://img.shields.io/badge/Email-maciekgeneja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciekgeneja@gmail.com)
-[![Location](https://img.shields.io/badge/Location-London_%2F_Cambridge_%2F_East_Midlands,_UK-1E293B?style=for-the-badge)](https://maciekgeneja.me)
+[![Location](https://img.shields.io/badge/Location-UK-1E293B?style=for-the-badge)](https://maciekgeneja.me)
 
 </div>
 
@@ -25,7 +25,7 @@ Focused on **high-throughput backend systems, deterministic agentic harness arch
 
 ## Systems & Architecture Experience
 
-### 🏛️ Next plc (FTSE 100) — *Systems Placement Engineer (PIM Strategic Team)*
+### 🏛️ Next plc (FTSE 100) — *Systems Placement Developer (PIM Strategic Team)*
 > **C# / .NET · Blazor WebAssembly · Distributed Microservices · AI Attribution 2.0 · Enterprise Agentic Enablement**
 - Leading UI and client-state re-architecture for **AI Attribution 2.0** using **Blazor WebAssembly** across a multi-repository, multi-solution enterprise microservice ecosystem.
 - Engineering high-reliability cross-environment services, automated product classification workflows, and enterprise configuration pipelines within the Product Information & Management (PIM) Strategic Team.
