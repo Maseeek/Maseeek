@@ -19,7 +19,7 @@
 
 Systems & Full-Stack Software Engineer combining a rigorous mathematical foundation (**First-Class Honours** across 1st & 2nd Year Computer Science; **86% in Formal Logic**) with industrial placement experience engineering enterprise microservices at **Next plc** and multi-tenant data platforms at **Valdris**.
 
-Focused on **high-throughput backend systems, deterministic agentic harness architecture, quantitative & algorithmic modeling, and applied AI/computer vision**.
+Focused on **high-throughput backend systems, deterministic multi-agent software engineering (The Software Factory), quantitative & algorithmic modeling, and applied AI/computer vision**.
 
 ---
 
@@ -43,14 +43,14 @@ Focused on **high-throughput backend systems, deterministic agentic harness arch
 
 ---
 
-## ⚡ Agentic Systems Engineering & Enterprise Team Enablement
-> **Architecture Blueprint & Case Study:** [**Bringing Agentic Systems to the Enterprise (`maciekgeneja.me/blog/enterprise-agentic-systems`) ↗**](https://maciekgeneja.me/blog/enterprise-agentic-systems)
+## ⚡ Agentic Systems Engineering — The Software Factory & Team Enablement
+> **Architecture Blueprint & Case Study:** [**Enterprise Agentic Systems: The Software Factory & The Lab (`maciekgeneja.me/blog/enterprise-agentic-systems`) ↗**](https://maciekgeneja.me/blog/enterprise-agentic-systems)
 
-Rather than treating AI coding as ad-hoc prompting, I engineer **deterministic repository harnesses** that allow engineering teams and autonomous agents to ship production software with zero architectural drift:
+Rather than treating AI coding as ad-hoc prompting, I engineer a **deterministic Software Factory** that allows engineering teams and autonomous agents to ship production software with zero architectural drift:
 
 1. **In-Repo Domain & Context Codification (`CONTEXT.md` · `AGENTS.md` · `ADRs`)**: Translating implicit tribal architecture into version-controlled ubiquitous language and Architectural Decision Records so newly onboarded engineers and autonomous agents reason from identical ground truth.
 2. **Deep Modules & Blast-Radius Containment**: Structuring codebases around Ousterhout-style deep modules (narrow, strongly typed contracts hiding complex internals), static dependency boundary rules (`dependency-cruiser`), and isolated git worktrees so concurrent changes never collide or leak across service seams.
-3. **Composable Skill Harnesses & Spec-Driven Execution**: Standardizing delivery through modular workflow pipelines (*Stress-Test Grilling → Technical Specification → ADR → `ready-for-agent` Vertical Slices → Red-Green-Refactor TDD*) gated by deterministic verification (`npm run check`, Playwright, Vitest).
+3. **Composable Skill Workflows & Spec-Driven Execution**: Standardizing delivery through modular execution loops (*Stress-Test Grilling → Technical Specification → ADR → `ready-for-agent` Vertical Slices → Red-Green-Refactor TDD*) gated by deterministic verification (`npm run check`, Playwright, Vitest).
 4. **Team Onboarding & Organizational Leverage**: Upskilling developers to transition from single-turn chat prompts to structured multi-agent orchestration with strict human-in-the-loop architectural sign-off.
 
 ```mermaid
@@ -65,11 +65,11 @@ flowchart LR
     F --> G[Human Review & Merge]
 ```
 
-### 🖥️ Project Overview: Distributed Multi-Computer AI Agent Infrastructure *(Work in Progress)*
+### 🖥️ The Lab: Distributed Multi-Computer Compute Setup *(Student Budget · Work in Progress)*
 
-Alongside enterprise repository architecture, I am building a modular, remotely accessible multi-machine AI agent lab over **Tailscale** and **SSH** to run autonomous software development, research, and automation workflows across existing hardware.
+Alongside enterprise repository architecture, I run the Software Factory across **The Lab** — the computers I already own linked over a private **Tailscale** and **SSH** network to run autonomous software development, research, and verification workflows on a placement-student budget before spending paid cloud credits.
 
-#### Hardware Infrastructure
+#### The Lab — Hardware Nodes
 | Node | Hardware Specification | Role & Status |
 | :--- | :--- | :--- |
 | **Main Windows Workstation** | Intel i5-10400F · **NVIDIA RTX 3060 Ti** · 32GB DDR4 · 500GB SSD + 2TB HDD | **Active** — GPU-intensive workloads, full-stack compilation & target host for lightweight local LLM experiments |
@@ -79,7 +79,7 @@ Alongside enterprise repository architecture, I am building a modular, remotely 
 #### Current Operational State vs. Planned Architecture
 - **Implemented & Active Today**:
   - **Tailscale + SSH Mesh**: Secure cross-network SSH staging between the **Pop!_OS** portable orchestration machine and the **Windows RTX 3060 Ti** workstation.
-  - **Multi-Agent Execution Harnesses**: Active orchestration and experimentation using **Oh My Pi (OMP)** and **T3 Code** with isolated subagent workpools, alongside evaluation of **Hermes Agent**.
+  - **Software Factory Orchestration**: Active multi-agent execution and experimentation using **Oh My Pi (OMP)** and **T3 Code** with isolated subagent workpools, alongside evaluation of **Hermes Agent**.
 - **Planned Features & Experimental Roadmap (In Progress)**:
   - **Hybrid Cost-Aware Model Routing**: Experimenting with intelligent task routing — delegating straightforward tasks to smaller, cheaper, or locally hosted models on the RTX 3060 Ti while escalating complex reasoning and architecture tasks to frontier cloud models across ChatGPT, Gemini, and GitHub Copilot subscriptions.
   - **Persistent Linux Worker Nodes**: Provisioning the two older HP Pavilion laptops as dedicated Linux nodes so autonomous background agents execute without interrupting active development environments.
@@ -121,7 +121,7 @@ Alongside enterprise repository architecture, I am building a modular, remotely 
 
 ```text
 Languages & Systems      :: Python (Advanced) · C# / .NET · TypeScript · C/C++ · Kotlin · Java · SQL · PHP
-Agentic & Orchestration  :: Oh My Pi (OMP) · T3 Code · Hermes Agent · CONTEXT.md / ADR Harnesses · Tailscale Mesh / SSH
+Agentic & Orchestration  :: Oh My Pi (OMP) · T3 Code · Hermes Agent · CONTEXT.md / ADR Systems · Tailscale / SSH (The Lab)
 Backend & Architecture   :: Microservices · PostgreSQL (RLS) · Node.js / Express 5 · Flask · REST APIs · OAuth 2.0 / JWT
 AI, CV & Quantitative    :: OpenCV · Polynomial Trajectory Modeling · Anthropic Claude SDK · Gemini API · NumPy / Pandas · PyTorch
 Frontend & Mobile        :: Blazor WebAssembly · React 19 · Next.js 16 (App Router) · Android SDK (Kotlin) · Tailwind CSS
