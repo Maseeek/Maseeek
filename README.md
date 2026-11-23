@@ -29,7 +29,7 @@ I wrote evaluation rubrics and Python test suites to check LLM reasoning on math
 | [do-it](https://github.com/Maseeek/do-it) | Two-player habit tracker with workout sync from Apple Health, Strava and Hevy. [Live](https://do-it-plum-seven.vercel.app) | Next.js, Supabase, OAuth |
 | [nothing-but-net](https://github.com/Maseeek/nothing-but-net) | Basketball shot tracking from video, with a web app and an Android client. [Live](https://nbnc-maseeeks-projects.vercel.app) | Python, OpenCV, React, Kotlin |
 | [LyricForge](https://github.com/Maseeek/LyricForge) | Hackathon project (HackNotts) that rewrites song lyrics and generates new vocals. | Python, Whisper, Gemini, ElevenLabs |
-| [LED-REMOTE-CONTROL](https://github.com/Maseeek/LED-REMOTE-CONTROL) | Bluetooth LED controller that syncs colours to Spotify. | Python, asyncio, Bleak, Flask |
+| [LED-REMOTE-CONTROL](https://github.com/Maseeek/LED-REMOTE-CONTROL) | Pick a mood on your phone and it starts a Spotify playlist and sets a Bluetooth LED strip to match. | Python, asyncio, Bleak, Flask |
 | [portfolio](https://github.com/Maseeek/portfolio) | My site and blog. [maciekgeneja.me](https://maciekgeneja.me) | Next.js, TypeScript |
 
 I write up how I work with AI agents, from specs to isolated worktrees to test gates, in [this post](https://maciekgeneja.me/blog/enterprise-agentic-systems).
