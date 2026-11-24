@@ -34,6 +34,11 @@ I wrote evaluation rubrics and Python test suites to check LLM reasoning on math
 
 I write up how I work with AI agents, from specs to isolated worktrees to test gates, in [this post](https://maciekgeneja.me/blog/enterprise-agentic-systems).
 
+## Open source
+
+- **[T3 Code](https://github.com/pingdotgg/t3code)**, an app for working with coding agents. Three merged fixes: Unicode file paths in terminal links ([#20264](https://github.com/pingdotgg/t3code/pull/20264)), `.ignore` patterns ending in an escaped backslash ([#41760](https://github.com/pingdotgg/t3code/pull/41760)), and the icon for `.cjs` file links on mobile ([#41763](https://github.com/pingdotgg/t3code/pull/41763)).
+- **[Metrolist](https://github.com/MetrolistGroup/Metrolist)**, a YouTube Music client for Android. An open pull request adds an opt-in setting to swipe songs out of the queue while it is locked ([#5197](https://github.com/MetrolistGroup/Metrolist/pull/5197)).
+
 ## Education
 
 **Loughborough University**, BSc Computer Science (2024 to present)\
